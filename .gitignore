@@ -1,0 +1,20 @@
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+~
+
+# Credentials / Environment files
+.env
+*.env
+*.properties# LibreOffice temporary lock files
+.~lock.*
