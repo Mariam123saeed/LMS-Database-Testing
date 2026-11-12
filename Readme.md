@@ -1,6 +1,6 @@
 # Library Management System (LMS) – Database Testing
 
-## 📌 Project Overview
+##  Project Overview
 
 **Library Management System (LMS)** is a team-based **Database Testing project** focused on validating the database layer of a library management system.
 
@@ -18,7 +18,7 @@ The project focuses on **data integrity, database constraints, relationships, bu
 
 ---
 
-# 🎯 Testing Scope
+# Testing Scope
 
 ### In Scope
 
@@ -46,7 +46,7 @@ The project focuses on **data integrity, database constraints, relationships, bu
 
 ---
 
-# 🗄️ Database – MySQL
+# Database – MySQL
 
 **MySQL** was used as the main **Relational Database Management System (RDBMS)**.
 
@@ -86,7 +86,7 @@ Official documentation:
 
 ---
 
-# 🖥️ DBeaver Community Edition
+#  DBeaver Community Edition
 
 **DBeaver CE** was used as the **GUI database client** for working with MySQL.
 
@@ -114,7 +114,7 @@ Official website:
 
 ---
 
-# 📋 Business Requirements
+# Business Requirements
 
 The system requirements were documented in a **Business Requirements Document (BRD)**.
 
@@ -157,7 +157,7 @@ The system supports searching for:
 
 ---
 
-# 🧪 Testing Approach
+# Testing Approach
 
 The project included:
 
@@ -189,7 +189,7 @@ The project included:
 
 ---
 
-# 🚀 Agile User Stories
+# Agile User Stories
 
 The project requirements were also represented using **Agile User Stories**.
 
@@ -216,7 +216,7 @@ Acceptance Criteria were used to define the expected behavior of each User Story
 
 ---
 
-# 🐞 Jira – Test Management & Bug Tracking
+# Jira – Test Management & Bug Tracking
 
 The team used **Jira** for:
 
@@ -235,7 +235,7 @@ The team used **Jira** for:
 
 ---
 
-# 📄 Project Deliverables
+# Project Deliverables
 
 | Deliverable        | Tool            |
 | ------------------ | --------------- |
@@ -249,7 +249,7 @@ The team used **Jira** for:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 * **MySQL** – Database Management & Testing
 * **DBeaver CE** – Database GUI / SQL Client
@@ -259,7 +259,7 @@ The team used **Jira** for:
 
 ---
 
-# 📊 Project Summary
+# Project Summary
 
 | Item            | Details                       |
 | --------------- | ----------------------------- |
@@ -275,7 +275,7 @@ The team used **Jira** for:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 Library-Database-Testing/
